@@ -11,7 +11,9 @@ Dynamo Script
 
 AutoRename Package
 
-![Paradigm Package](https://github.com/user-attachments/assets/0afeb5ea-f72c-44c9-a279-4aff80f06573)
+
+
+![Paradigm Package](https://github.com/user-attachments/assets/f245325a-b6af-44c6-908d-0aff752cb3fd)
 <p align="center">
 -Auto Rename Node is a custom node designed to extract and list dimensions in feet from a set of fractional feet measurements.
 
